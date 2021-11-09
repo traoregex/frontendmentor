@@ -5,17 +5,3 @@
   justify-content: center;
   align-items: center;
 }
-
-.card {
-  background-color: #fff;
-  max-width: 345px;
-  width: 100%;
-  border-radius: 20px;
-  overflow: hidden;
-
-  &__header {
-    background: url(../assets/images/illustration-hero.svg) no-repeat center;
-    background-size: cover;
-    height: 200px;
-  }
-}
