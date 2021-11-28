@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
+### Screenshot
+
+![](./order-summary.jpg)
+
+
+### Links
+
+- Solution URL: [frontendmentor.io/solutions]()
+- Live Site URL: [traoregex.github.io]()
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
