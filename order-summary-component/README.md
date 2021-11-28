@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Links
 
 - Solution URL: [frontendmentor.io/solutions]()
-- Live Site URL: [traoregex.github.io]()
+- Live Site URL: [traoregex.github.io](https://tgl-order-summary.netlify.app/)
 
 ## Development server
 
