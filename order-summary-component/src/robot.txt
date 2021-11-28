@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tgl-order-summary.netlify.app/sitemap.xml
