@@ -1,0 +1,20 @@
+<nav class="navbar">
+  <div class="navbar__menu">
+    <img (click)="toggle()" src="../../assets/images/icon-menu.svg" alt="toggle icon" class="toggle-icon" />
+    <img src="../../assets/images/logo.svg" alt="logo" class="logo" />
+  </div>
+  <div [@slideInOut]="menuState" class="navbar__links">
+    <ul class="list">
+      <img (click)="toggle()" src="../../assets/images/icon-close.svg" alt="close icon" class="close-icon" />
+      <li>Collections</li>
+      <li>Men</li>
+      <li>Women</li>
+      <li>About</li>
+      <li>Contact</li>
+    </ul>
+  </div>
+  <div class="navbar__option">
+    <img class="cart" alt="cart icon" src="../../assets/images/icon-cart.svg"/>
+    <img class="avatar" alt="avatar" src="../../assets/images/image-avatar.png"/>
+  </div>
+</nav>
