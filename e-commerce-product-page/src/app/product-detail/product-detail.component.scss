@@ -4,9 +4,10 @@
   .title {
     margin: 0;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 13px;
+    font-weight: 700;
     // font-weight: 700;
-    color: #DA8B50;
+    color: rgba($color: #ff7d1a, $alpha: 0.7);//#DA8B50;
     letter-spacing: 1px;
   }
 

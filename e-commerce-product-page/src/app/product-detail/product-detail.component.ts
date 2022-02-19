@@ -12,4 +12,14 @@ export class ProductDetailComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  goNext() {
+    console.log("test");
+    // if(this.getCurrentIndex() < (this.images.length - 1)) {
+    //   this.currentImage = this.images[this.getCurrentIndex()+1];
+    // } else {
+    //   this.currentImage = this.images[0];
+    // }
+    // console.log(this.currentImage);
+  }
+
 }

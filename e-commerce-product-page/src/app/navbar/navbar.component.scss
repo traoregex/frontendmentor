@@ -21,6 +21,7 @@
     background-color: rgba($color: rgb(0, 0, 0), $alpha: 0.7);
     height: 100%;
     width: 100%;
+    z-index: 9999;
 
     ul {
       list-style: none;
